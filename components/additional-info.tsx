@@ -13,7 +13,7 @@ export function AdditionalInfo() {
         containerClassName="col-span-1 lg:col-span-2 h-full bg-blue-800 min-h-[500px] lg:min-h-[300px]"
         className="" 
       >
-        <Link href={'https://github.com/Ramteja24/textbehindimage'} target="_blank" rel="noopener noreferrer">
+        <Link href={'https://github.com/Ramteja24/text-behind-image'} target="_blank" rel="noopener noreferrer">
             <div className="max-w-xs">
                 <h2 className="text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
                     Text behind image is Open Source 
