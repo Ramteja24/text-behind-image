@@ -19,14 +19,14 @@ const page = () => {
                     transition={{ duration: 0.5, ease: [0.4, 0.0, 0.2, 1] }}
                     className="text-3xl lg:text-5xl lg:leading-tight max-w-5xl mx-auto text-center tracking-tight font-bold text-black dark:text-white"
                 >
-                    Create {" "}
+                    {" "}
                     <Highlight className='text-white'>
-                        text-behind-image
+                        Text Behind Image
                     </Highlight>
-                    {" "} designs easily
+                    {" "} 
                 </motion.h1>
             </HeroHighlight>
-            <Link href={'/app'} className='mb-10'>
+            <Link href={'/app'} className='mb-10'><br></br><br></br>
                 <HoverBorderGradient containerClassName="rounded-full" as="button" className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2">
                     Open the app
                 </HoverBorderGradient>

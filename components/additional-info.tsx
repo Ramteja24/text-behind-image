@@ -31,7 +31,7 @@ export function AdditionalInfo() {
                 />
         </Link>
       </WobbleCard>
-      <Link href={'https://x.com/rexan_wong/status/1840286290052538714'} target="_blank" rel="noopener noreferrer">
+      <Link href={'https://x.com/BoggalaRamteja'} target="_blank" rel="noopener noreferrer">
         <WobbleCard containerClassName="col-span-1 min-h-[300px]">
                 <h2 className="max-w-80  text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-white">
                     Share your designs
